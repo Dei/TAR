@@ -5,8 +5,7 @@ from telethon import TelegramClient, events
 
 api_id = 123
 api_hash = 'abc'
-# You can use your username as session_file
-session = '/path/to/session_file'
+session = 'username'
 
 # Customize your message
 msg = '[Auto-Reply] Sorry, I am unavailable until February 15th.'
