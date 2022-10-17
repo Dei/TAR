@@ -17,4 +17,4 @@ In order to use this script, you'll need an `api_id` and `api_hash`, you can obt
 4. Authorize using code you'll receive either from Telegram in the Telegram App or in SMS.
 
 You're good to go! 
-Next time you'll launch the script, it will use SESSION file to login.
+Next time you launch the script, it will use the SESSION file to login.
